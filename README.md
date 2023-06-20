@@ -1,13 +1,13 @@
 <h1 align="center">Merhaba 👋, Ben Batuhan.</h1>
-<h3 align="center">Meraklı bir flutter öğrencisiyim.</h3>
+<h3 align="center">Meraklı bir React.js öğrencisiyim.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozkankod&label=Profile%20views&color=0e75b6&style=flat" alt="bozkankod" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bozkankod" alt="bozkankod" /></a> </p>
 
-- 🔭 Şu an bir burç uygulaması hakkında çalışıyorum. [Bozkitoski-Burclar](https://github.com/Bozkankod/Bozkitoski-Burclar)
+- 🔭 Şu an bir scrum puanlama uygulaması hakkında çalışıyorum. [Scrum Point](https://github.com/Bozkankod/scrumpoker)
 
-- 🌱 Şu anda Flutter öğreniyorum **Flutter**
+- 🌱 Şu anda React öğreniyorum
 
 - 📫 Bana nasıl ulaşabilirsiniz? **bozkankod@gmail.com**
 
