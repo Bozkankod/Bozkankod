@@ -5,7 +5,7 @@
 
 <img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
 
-Ben Batuhan, Sakarya Üniversitesi'nden Bilgisayar Programcılığı bölümünden mezun oldum, hali hazırda Anadolu Üniversitesi'nde YBS okumaya devam ediyorum. React.js ve Flutter öğrenmeye devam ediyorum, bu süreçte mümkün olduğunca kendimi geliştirmeye odaklandım. Açık kaynak topluluğunu çok seviyor ve herkese başarılar diliyorum. May be force with you.
+Ben Batuhan, Sakarya Üniversitesi'nden Bilgisayar Programcılığı bölümünden mezun oldum, hali hazırda Anadolu Üniversitesi'nde YBS okumaya devam ediyorum. React.js ve Flutter öğrenmeye devam ediyorum, bu süreçte mümkün olduğunca kendimi geliştirmeye odaklandım. Açık kaynak topluluğunu çok seviyor ve herkese başarılar diliyorum. May the be force with you.
 
 ## 👨‍💻 Yeteneklerim
 
