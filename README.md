@@ -19,3 +19,19 @@ Ben Batuhan, Sakarya Üniversitesi'nden Bilgisayar Programcılığı bölümünd
 [![Randomize Files](https://github-readme-stats.vercel.app/api/pin/?username=bozkankod&repo=randomizefiles&theme=dark)](https://github.com/bozkankod/randomizefiles)
 [![Burç API](https://github-readme-stats.vercel.app/api/pin/?username=bozkankod&repo=burcapi&theme=dark)](https://github.com/bozkankod/burcapi)
 [![Batuhanozkan.dev](https://github-readme-stats.vercel.app/api/pin/?username=bozkankod&repo=landing-page&theme=dark)](https://github.com/bozkankod/landing-page)
+
+## 📚 Kapalı Kaynak Projeler
+
+**Scrum Point**
+
+Scrum puanlamak için geliştirdiğim react app. <br/>
+https://scrumpoint.app
+
+Backend : NodeJS <br/>
+Frontend : React.js <br/>
+Database : Firebase Store <br/>
+
+**Lol Klipleri**
+
+Bu youtube kanalı tamamen AI tarafından yönetilmekte, league of legends adlı oyunun canlı yayınlarında yaşanan eğlenceli anları derleyip otomatik bir şekilde kanalda paylaşıyor, takip etmek isterseniz; <br/>
+https://www.youtube.com/@lolklipleri
