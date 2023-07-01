@@ -35,3 +35,6 @@ Database : Firebase Store <br/>
 
 Bu youtube kanalı tamamen AI tarafından yönetilmekte, league of legends adlı oyunun canlı yayınlarında yaşanan eğlenceli anları derleyip otomatik bir şekilde kanalda paylaşıyor, takip etmek isterseniz; <br/>
 https://www.youtube.com/@lolklipleri
+
+Backend : NodeJS <br/>
+Database : Firebase Store
