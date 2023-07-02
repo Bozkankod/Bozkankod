@@ -38,3 +38,12 @@ https://www.youtube.com/@lolklipleri
 
 Backend : NodeJS <br/>
 Database : Firebase Store
+
+**Burç Yorumları**
+
+Her saat başı dinamik olarak tüm burç yorumları mongoDB üzerinde kaydedilir ve kullanıcı sürekli güncel veri ile burç yorumlarını okuyabilir.<br/>
+https://play.google.com/store/apps/details?id=com.bozki.burclar
+
+Backend : NodeJS <br/>
+Frontend : Flutter <br/>
+Database : MongoDB
