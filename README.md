@@ -47,3 +47,5 @@ https://play.google.com/store/apps/details?id=com.bozki.burclar
 Backend : NodeJS <br/>
 Frontend : Flutter <br/>
 Database : MongoDB
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bozkankod&theme=dark)](https://git.io/streak-stats)
