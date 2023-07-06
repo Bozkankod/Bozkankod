@@ -27,7 +27,6 @@ Ben Batuhan, Sakarya Üniversitesi'nden Bilgisayar Programcılığı bölümünd
 Scrum puanlamak için geliştirdiğim react app. <br/>
 https://scrumpoint.app
 
-Backend : NodeJS <br/>
 Frontend : React.js <br/>
 Database : Firebase Store <br/>
 
