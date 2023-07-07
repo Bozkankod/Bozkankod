@@ -47,4 +47,4 @@ Backend : NodeJS <br/>
 Frontend : Flutter <br/>
 Database : MongoDB
 <br/>
-<div>[![GitHub Streak](https://streak-stats.demolab.com?user=bozkankod&theme=dark)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bozkankod&theme=dark)](https://git.io/streak-stats)
