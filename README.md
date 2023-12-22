@@ -17,7 +17,6 @@ Ben Batuhan, Sakarya Üniversitesi'nden Bilgisayar Programcılığı bölümünd
 ## 📚 Projeler
 
 [![Randomize Files](https://github-readme-stats.vercel.app/api/pin/?username=bozkankod&repo=randomizefiles&theme=dark)](https://github.com/bozkankod/randomizefiles)
-[![Burç API](https://github-readme-stats.vercel.app/api/pin/?username=bozkankod&repo=burcapi&theme=dark)](https://github.com/bozkankod/burcapi)
 [![Batuhanozkan.dev](https://github-readme-stats.vercel.app/api/pin/?username=bozkankod&repo=landing-page&theme=dark)](https://github.com/bozkankod/landing-page)
 
 ## 📚 Kapalı Kaynak Projeler
